@@ -45,3 +45,18 @@ The dataset is defined inside the Python file for demonstration purposes.
 2. Run the Python file:
    python fruit_classification.py
 
+ ## 📌 Project Structure
+
+- fruit_classification.py : Main model code
+- README.md : Project documentation
+- requirements.txt : Required libraries
+
+## 📊 Sample Output
+Accuracy: ~90% (may vary depending on dataset split)
+
+## 🔮 Future Improvements
+- Compare with Logistic Regression
+- Compare with Random Forest
+- Deploy using Streamlit
+
+
